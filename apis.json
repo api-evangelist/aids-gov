@@ -1,0 +1,67 @@
+{
+    "name": "AIDS.gov",
+    "description": "HIV.gov is the federal government\u2019s leading source for information about HIV.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/323-aids-gov.jpg",
+    "tags": [
+        "aids",
+        "api provider",
+        "have api",
+        "healthcare",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aids-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AIDS.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/323-aids-gov.jpg",
+            "humanURL": "https:\/\/www.hiv.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aids-gov-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.aids.gov\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.agendize.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/twitter.com\/particles"
+        },
+        {
+            "type": "Email",
+            "url": "contact@AIDS.gov"
+        },
+        {
+            "type": "Email",
+            "url": "press@AIDS.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/HIVGov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AIDSgov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.hiv.gov\/"
+        }
+    ]
+}
